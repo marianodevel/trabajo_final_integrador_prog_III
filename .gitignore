@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log*
+npm-*.log
+logs/
+*.log
+coverage/
+.nyc_output/
+
+# Variables de entorno
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build artifacts
+dist/
+build/
+out/
+output/
+temp/
+tmp/
+
+# Documentación generada
+docs/
+apidoc/
+swagger-docs/
+/swagger.json
+/swagger.yaml
+/swagger.yml
+
+# Pruebas
+__tests__/
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Otros
+*.env.backup
+*.env.bak
+.env.example
